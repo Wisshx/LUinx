@@ -580,11 +580,6 @@ DOMAIN,books.itunes.apple.com // iBooks Store download
 DOMAIN-SUFFIX,smoot.apple.com // Spotlight
 DOMAIN,beta.music.apple.com // Apple Music Web
 DOMAIN,lookup-api.apple.com // Look Up
-# > Web Preview
-DOMAIN,apps.apple.com
-DOMAIN,books.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,tv.apple.com
 # > Podcasts
 DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,bookkeeper.itunes.apple.com
@@ -616,7 +611,6 @@ URL-REGEX,http:\/\/img\.sina\.com\/usweibo\/
 
 # (Network Jitter)
 # > Apple
-DOMAIN,appleid.apple.com
 DOMAIN,developer.apple.com
 DOMAIN,ocsp.apple.com
 # > DigiCert
