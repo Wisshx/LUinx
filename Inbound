@@ -1,6 +1,5 @@
 host, time.apple.com, direct
-USER-AGENT,com.apple.appstored*,DIRECT
-USER-AGENT,AppStore*,DIRECT
+
 DOMAIN-SUFFIX,mzstatic.com,DIRECT
 DOMAIN-SUFFIX,itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,icloud.com,DIRECT
@@ -9,13 +8,11 @@ USER-AGENT,cloudd*,DIRECT
 DOMAIN-SUFFIX,me.com,DIRECT
 DOMAIN-SUFFIX,aaplimg.com,DIRECT
 DOMAIN-SUFFIX,cdn20.com,DIRECT
-DOMAIN-SUFFIX,cdn-apple.com,DIRECT
 DOMAIN-SUFFIX,akadns.net,DIRECT
 DOMAIN-SUFFIX,akamaiedge.net,DIRECT
 DOMAIN-SUFFIX,edgekey.net,DIRECT
 DOMAIN-SUFFIX,mwcloudcdn.com,DIRECT
 DOMAIN-SUFFIX,mwcname.com,DIRECT
-DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
 DOMAIN-SUFFIX,apple-mapkit.com,DIRECT
 DOMAIN,inappcheck.itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,126.com,DIRECT
@@ -64,7 +61,6 @@ DOMAIN-SUFFIX,amazonaws.com,DIRECT
 DOMAIN-SUFFIX,ameblo.jp,DIRECT
 DOMAIN-SUFFIX,americanexpress.com,DIRECT
 DOMAIN-SUFFIX,aol.com,DIRECT
-DOMAIN-SUFFIX,apple.com,DIRECT
 DOMAIN-SUFFIX,asos.com,DIRECT
 DOMAIN-SUFFIX,atlassian.net,DIRECT
 DOMAIN-SUFFIX,autonavi.com,DIRECT
