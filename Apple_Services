@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,icloud.com.akadns.net
 DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,itunes.apple.com,DIRECT
+DOMAIN,inappcheck.itunes.apple.com,DIRECT
 USER-AGENT,cloudd*
 IP-CIDR,17.0.0.0/8
 IP-CIDR,63.92.224.0/19
