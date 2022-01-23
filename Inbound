@@ -1,5 +1,4 @@
 host, time.apple.com, direct
-DOMAIN-SUFFIX,itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,aaplimg.com,DIRECT
 DOMAIN-SUFFIX,20.com,DIRECT
 DOMAIN-SUFFIX,akamaiedge.net,DIRECT
@@ -7,7 +6,6 @@ DOMAIN-SUFFIX,edgekey.net,DIRECT
 DOMAIN-SUFFIX,mwcloudcdn.com,DIRECT
 DOMAIN-SUFFIX,mwcname.com,DIRECT
 DOMAIN-SUFFIX,apple-mapkit.com,DIRECT
-DOMAIN,inappcheck.itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,126.com,DIRECT
 DOMAIN-SUFFIX,126.net,DIRECT
 DOMAIN-SUFFIX,127.net,DIRECT
