@@ -1,3 +1,4 @@
+GEOIP,CN
 DOMAIN-SUFFIX,time.apple.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,20.com
@@ -443,4 +444,3 @@ DOMAIN-SUFFIX,cabdirect.org
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,osapublishing.org
-GEOIP,CN
