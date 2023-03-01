@@ -1,4 +1,4 @@
-host, time.apple.com,direct
+DOMAIN-SUFFIX,time.apple.com,direct
 DOMAIN-SUFFIX,aaplimg.com,DIRECT
 DOMAIN-SUFFIX,20.com,DIRECT
 DOMAIN-SUFFIX,akamaiedge.net,DIRECT
