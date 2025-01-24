@@ -58,6 +58,14 @@ DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxusercontent.com
+# > eBay
+DOMAIN-SUFFIX,ebay-kleinanzeigen.de
+DOMAIN-SUFFIX,ebay.co.uk
+DOMAIN-SUFFIX,ebay.com
+DOMAIN-SUFFIX,ebay.com.au
+DOMAIN-SUFFIX,ebay.de
+DOMAIN-SUFFIX,ebay.in
+DOMAIN-SUFFIX,ebay.it
 # > Facebook
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,cdninstagram.com
