@@ -1,2 +1,4 @@
 DOMAIN,s3.pstatp.com
 DOMAIN,jnn-pa.googleapis.com
+# > deepseek captcha
+DOMAIN-SUFFIX,fengkongcloud.cn
