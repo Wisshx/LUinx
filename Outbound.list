@@ -50,6 +50,8 @@ DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,poloniex.com
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,zb.com
+# > deepseek
+DOMAIN-SUFFIX,deepseek.com
 # > Discord
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
