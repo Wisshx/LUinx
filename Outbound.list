@@ -102,6 +102,8 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
+# > suspiciousgooglesite
+DOMAIN,o.pki.goog/wr2
 # > Line
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line-apps.com
